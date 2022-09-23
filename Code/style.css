@@ -1,0 +1,46 @@
+/* Pour faire un commentaire */
+
+/*
+selecteur {
+    propriété:valeur;
+
+}
+Il faut également exectuer dans le meme ordre que mon html */
+
+body{/*corps de ma page*/
+    background-color: blanchedalmond;
+    font-family: 'PT Serif', serif;
+
+}
+
+/*******Header***********/
+header{
+    background-color: darkslategrey;
+    /* background-image:url(.../img/fauxlogo.jpg); */
+    text-align: center;
+}
+
+#jouons{
+    font-size: 1.5em;
+}
+
+.whitearial{
+    color: beige;
+}
+
+.darkbluearial{
+    color: darkslateblue;
+}
+
+.orangearial{
+    color: orangered;
+}
+
+.purplearial{
+    color: purple;
+}
+
+.blackarial{
+    color: black;
+}
+

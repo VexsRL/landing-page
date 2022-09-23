@@ -1,0 +1,91 @@
+ul{
+    padding: 0px;
+    list-style-type: none;
+    border: 2px dashed black;
+}
+
+li{
+    padding: 2em;
+}
+
+/*
+padding: 1-2-3-4px
+padding-top=1px
+padding-right=2px
+padding-bottom=3px
+padding-left=4px
+*/
+
+li.a{
+    background-color: red;
+}
+
+li.b{
+    background-color: orangered;
+}
+
+li.c{
+    background-color: orange;
+}
+
+li.d{
+    background-color: yellow;
+}
+
+li.e{
+    background-color: yellowgreen;
+}
+
+li.f{
+    background-color: green;
+}
+
+li.g{
+    background-color: turquoise;
+}
+
+li.h{
+    background-color: lightskyblue;
+}
+
+li.i{
+    background-color: cornflowerblue;
+}
+
+li.j{
+    background-color: blueviolet;
+}
+
+li.k{
+    background-color: violet;
+}
+
+li.l{
+    background-color: rgb(252, 184, 195);
+}
+
+.test1{
+    display: flex;
+}
+
+.test2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.test3{
+    display: flex;
+    flex-direction: row;
+    border: 0px;
+}
+
+.test4{
+    display: flex;
+    flex-direction: row;
+    border: 0px;
+}
+
+.division{
+    display: flex;
+    justify-content: space-around;
+}
